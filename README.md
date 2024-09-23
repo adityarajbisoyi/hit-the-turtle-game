@@ -15,4 +15,13 @@ Played Pong before?  Then you will love it ! !
 # Rules/Logic
 1. The player has to hit the turtle, on each hit the speed increases.
 2. If the Player Miss , the opponent will get a score , The turtle speed set to dafault again.
+
+# Demo
+
+
+https://github.com/user-attachments/assets/6fa7eba1-b025-47d0-8a4b-4d0cbab222c2
+
+
+
+   
    
